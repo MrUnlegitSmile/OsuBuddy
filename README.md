@@ -1,4 +1,4 @@
-###CRACKED BY Hazuki-san
+### CRACKED BY Hazuki-san
 ### This is just a version with legit settings
 ### PLEASE DO NOT ASK TAIKOBUDDY FOR SUPPORT, THIS IS CRACKED AND OLD VERSION! HE PROBABLY WON'T HELP YOU WITH THIS!
 # OsuBuddy-reversed
