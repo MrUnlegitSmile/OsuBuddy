@@ -25,7 +25,7 @@ namespace OsuBuddy
 			replayPlayer = new ReplayPlayer();
 			gui = new GUI(this);
 			user = new User("", "");
-			gui.Text = "OsuBuddy - Modded edition ";
+			gui.Text = "OsuBuddy - Modded edition";
 			gui.updateLoginGui(this.user.getUsername(), this.user.getSubscriptionExpirationDate());
 			MessageBox.Show("Before you use OsuBuddy be sure that is a Modded edition.\nThe Aim Assist has the best legit settings\nThe Relaxe Mode has also the best Legit settings\nBe sure that you can get banned!", "Info", MessageBoxButtons.OK, MessageBoxIcon.Information);
 			Thread thread = new Thread((ThreadStart)delegate
