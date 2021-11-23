@@ -1,3 +1,4 @@
+###DOWNLOAD -> https://www.mediafire.com/file/mthhssyc8j0cwmj/OsuBuddy.zip/file
 ### CRACKED BY Hazuki-san
 ### This is just a version with legit settings
 ### PLEASE DO NOT ASK TAIKOBUDDY FOR SUPPORT, THIS IS CRACKED AND OLD VERSION! HE PROBABLY WON'T HELP YOU WITH THIS!
